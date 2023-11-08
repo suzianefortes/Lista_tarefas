@@ -57,6 +57,10 @@ li {
     background-color: #f9f9f9;
     border-radius: 4px;
     cursor: pointer;
+    
 }
 
+#List{
+    text-decoration: line-through;
+}
 
