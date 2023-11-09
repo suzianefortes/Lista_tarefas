@@ -60,7 +60,7 @@ li {
     
 }
 
-#List{
+.completed{
     text-decoration: line-through;
 }
 
